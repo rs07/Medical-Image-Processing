@@ -3,4 +3,4 @@
 3. Segemntimg.m for segmenting the image using texture filter i.e., Gabor Filter.
 4. 'train-Med-img' folder contains image for the training dataset for SVM classifier (99 images taken).
 5. 'test-Med-img' folder contains image for the testing of SVM classifier (32 images).
-6. In SVM classifier I am getting the Accuracy: 46.87%. I am not sure how to increase the efficiency may be by taking a large number of Images for Training dataset.
+6. In SVM classifier I am getting the Accuracy: 62.87%. I am not sure how to increase the efficiency may be by taking a large number of Images for Training dataset.
